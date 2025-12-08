@@ -1,3 +1,5 @@
 flask
 pytest
 gunicorn
+flake8
+bandit
